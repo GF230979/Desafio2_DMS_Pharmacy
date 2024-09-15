@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Farmacia</string>
+
+    <string-array name="product_names">
+        <item>Paracetamol</item>
+        <item>Ibuprofeno</item>
+        <item>Aspirina</item>
+        <item>Jarabe para la tos</item>
+        <item>Vitamina C</item>
+        <item>Jarabe para la fiebre</item>
+        <item>Omeprazol</item>
+        <item>Alcohol Gel</item>
+        <item>Gotas para los ojos</item>
+        <item>Anticonceptivos</item>
+    </string-array>
+
+    <string-array name="product_prices">
+        <item>1.50</item>
+        <item>3.00</item>
+        <item>2.50</item>
+        <item>4.00</item>
+        <item>3.50</item>
+        <item>6.00</item>
+        <item>8.00</item>
+        <item>3.00</item>
+        <item>7.00</item>
+        <item>15.00</item>
+    </string-array>
+
+</resources>

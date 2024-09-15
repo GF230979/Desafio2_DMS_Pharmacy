@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462878279760",
+    "project_id": "prueba2-d6250",
+    "storage_bucket": "prueba2-d6250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462878279760:android:e355907ceeb48cb0166955",
+        "android_client_info": {
+          "package_name": "com.example.farmacia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JPtEc3JBSu8D_f9NKrRp-6oQ8FAgj0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
