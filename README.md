@@ -23,12 +23,15 @@ Cada miembro del equipo contribuyó con diferentes aspectos para que esta app fu
 ## 📱 Capturas de Pantalla
 
 Inicio de Sesión y de Registro | Pantalla Principal | Carrito de Compras | Cierre de Sesion 
+
 |-------------------|-------------------|-------------------|-------------------|-------------------|
 
-![image](https://github.com/user-attachments/assets/f8f0e58f-d444-4ecb-a30a-f75768a84093)
-![image](https://github.com/user-attachments/assets/6bbcfc3d-7136-4f91-8c1a-4f6720bff22e)
-![image](https://github.com/user-attachments/assets/7c5708fd-1326-4fdb-a7fb-3c84b6c4095a)
-![image](https://github.com/user-attachments/assets/5752c66a-f62e-4153-b9dc-ae5f350d6234)
+![image](https://github.com/user-attachments/assets/378acdf2-4bb2-467c-bdf8-55296119960c)
+![image](https://github.com/user-attachments/assets/a93b91f9-b509-4828-b28f-8e19dbba3264)
+![image](https://github.com/user-attachments/assets/133f094b-2e27-447f-9c3e-03f1739cebbd)
+![image](https://github.com/user-attachments/assets/042a51be-4119-4e32-87d7-5da3e66ac2c3)
+
+
 
 
 ## 🔧 Tecnologías Utilizadas
