@@ -38,3 +38,5 @@ Inicio de Sesión y de Registro | Pantalla Principal | Carrito de Compras | Cier
 - **XML**: Para el diseño de las interfaces gráficas.
 - **Git**: Control de versiones para manejar el historial de cambios.
 
+##  Enlace al video
+
