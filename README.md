@@ -42,4 +42,5 @@ Inicio de Sesión y de Registro | Pantalla Principal | Carrito de Compras | Cier
 - **Git**: Control de versiones para manejar el historial de cambios.
 
 ##  Enlace al video
+https://youtu.be/5qcnHijBl_M?si=yefCILx8PP5OIq6o
 
