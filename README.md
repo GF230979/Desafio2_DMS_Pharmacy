@@ -15,6 +15,7 @@
 Este proyecto fue desarrollado por el siguiente equipo:
 
 -Diana Jasmin Garcia Fabian GF230979
+
 -Samuel Isaac Azucena Gomez AG170932
 
 Cada miembro del equipo contribuyó con diferentes aspectos para que esta app funcione correctamente. ¡Gran trabajo en equipo! 💪
